@@ -1,0 +1,40 @@
+﻿body {
+    background-image:url(student.jpg);
+    background-size:cover;
+}
+.header,#Label1,#Button1{
+    font-family: 'Quicksand', sans-serif;
+}
+.header{
+    text-align: center;
+    font-size: 30px;
+    color: #78244c;
+    padding: 3px;
+}
+#Label1 {
+     text-align:center;
+    background: none;
+    border-radius: 24px;
+    border:none;
+    color:#78244c;
+    font-size:25px;
+}
+#Button1{
+     text-align:center;
+    background: none;
+    border-radius: 24px;
+    border: 2px solid #78244c;
+    color:#78244c;
+}
+#Button2:hover {
+    background: #78244c;
+    color: white;
+    cursor: pointer;
+}
+#GridView1{
+    text-align: center;
+    background: none;
+    border: 2px solid Black;
+    color:#78244c;
+    margin-left: 287px;
+}

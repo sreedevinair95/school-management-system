@@ -1,0 +1,22 @@
+﻿body {
+    background-image:url(sss.jpg);
+    background-size:cover;
+    margin:0;
+}
+.header, .table1 {
+    font-family: 'Quicksand', sans-serif;
+}
+.header {
+    text-align: center;
+    
+     font-size:25px;
+    color:#E74C3C;
+    padding:6px;
+}
+.table1 {
+    text-align:center;
+    color:#E74C3C  ;
+    border:2px solid #E74C3C;
+    font-size:18px;
+
+}

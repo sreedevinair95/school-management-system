@@ -1,0 +1,25 @@
+﻿body {
+    background-image:url(student.jpg);
+    background-size:cover;
+}
+.header,#Button1,#Button2,#Button3{
+    font-family: 'Quicksand', sans-serif;
+}
+.header {
+    text-align: center;
+    font-size: 30px;
+    color: #78244c;
+    padding: 3px;
+}
+#Button1,#Button2,#Button3 {
+    
+    cursor: pointer;
+    background: none;
+    border-radius: 24px;
+    border: 2px solid #78244c;
+    font-weight: 700;
+    margin-left: 505px;
+}
+#Button1:hover,#Button2:hover,#Button3:hover {
+        background:#78244c;
+    }  

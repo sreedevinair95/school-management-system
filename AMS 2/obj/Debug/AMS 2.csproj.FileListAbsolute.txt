@@ -1,0 +1,30 @@
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\AMS 2.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\AMS 2.pdb
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\Antlr3.Runtime.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.Core.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\EntityFramework.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\System.Web.Optimization.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\System.Web.Providers.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\WebGrease.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\EntityFramework.xml
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.Core.xml
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\obj\Debug\AMS 2.csprojResolveAssemblyReference.cache
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\obj\Debug\AMS 2.dll
+C:\Users\sreedevi-01\Documents\Visual Studio 2012\Projects\AMS 2\AMS 2\obj\Debug\AMS 2.pdb

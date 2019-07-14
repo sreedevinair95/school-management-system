@@ -1,0 +1,52 @@
+﻿body {
+    background: url('staff.jpg') no-repeat;
+    background-size:cover;
+    margin: 0px;
+}
+.header {
+    color: #AC3B61;
+    text-align:center;
+    font-size:30px;
+    padding:3px;
+}
+.header, #btn, #btn2, #btn1 #b, #c, #panel1, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8, #panel9, #panel10{
+    font-family: 'Quicksand', sans-serif;
+    }
+
+#a {
+    float: left;
+    width: 32%;
+    height: 25px;
+    padding: 1px;
+    text-align: center;
+}
+
+#btn, #btn2, #btn1, #panel1, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8, #panel9, #panel10{
+  border-style: solid;
+    border-color: inherit;
+    border-width: 1px;
+    padding: 3px;
+    text-align:center;
+    background-color:#AC3B61;
+    color:white;
+    font-weight: 700;
+}
+#panel1, #panel2, #panel3, #panel4, #panel5, #panel6, #panel7, #panel8, #panel9, #panel10{
+  display: none;
+}
+ #b {
+    float:left;
+    width:32%;
+    height:25px;
+    padding: 1px;
+    text-align:center;
+    font-weight: 700;
+}
+#c {
+    float: left;
+    width: 32%;
+    height: 29px;
+    padding: 1px;
+    text-align: center;
+}
+

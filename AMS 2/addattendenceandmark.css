@@ -1,0 +1,46 @@
+﻿body {
+   background: url('staff.jpg') no-repeat;
+    background-size:cover;
+    margin: 0px;
+    height: 470px;
+}
+.header {
+    color: #AC3B61;
+    text-align:center;
+    font-size:25px;
+    padding:3px;
+}
+.header, .t1, #Button1,#Button2{
+    font-family: 'Quicksand', sans-serif;
+    margin-left: 0px;
+    margin-top: 0px;
+}
+.t1 ,.t2 {
+    text-align:center;
+    color: #AC3B61;
+    height: 103px;
+    width: 299px;
+    margin-left: 0px;
+}
+    #Button1:hover {
+        text-align:center;
+ background:#AC3B61;
+ cursor:pointer;
+ color:black;
+    }
+#TextBox1, #TextBox2, #TextBox3, #TextBox4, #TextBox6, #TextBox7, #TextBox8, #TextBox9, #TextBox10, #TextBox11, #TextBox12, #TextBox13, #TextBox14, #TextBox15, #TextBox16, #TextBox17, #TextBox18, #TextBox19, #TextBox20, #TextBox21,#TextBox22,#TextBox23,#TextBox24,#TextBox25, #Button1, #Button2{
+        background:none;
+        border:2px solid #AC3B61;
+    font-weight: 700;
+}
+.table{
+    width:50%;
+    float:left;
+}
+.table2 {
+    text-align:center;
+    top:50%;
+    width:38%;
+    float:right;
+    height: 72px;
+}

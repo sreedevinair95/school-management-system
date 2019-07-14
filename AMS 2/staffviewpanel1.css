@@ -1,0 +1,18 @@
+﻿body {
+    background-image:url('staff.jpg');
+    background-size:cover;
+}
+.header {
+    text-align: center;
+    color:#AC3B61;
+    font-size:40px;
+    padding:6px;
+    border-bottom: 3px solid #AC3B61;
+}
+.table {
+    color: #AC3B61;
+}
+.auto-style4 {
+    text-align: center;
+    color: #AC3B61; 
+}

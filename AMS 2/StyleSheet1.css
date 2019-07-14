@@ -1,0 +1,90 @@
+﻿h1, h2,#Label1,#Label2,#Button1,#Label3, #Label4, #Button2, #Label5, #Label6,#Button3{
+    font-family: 'Quicksand', sans-serif;
+    height: 40px;
+}
+body {
+    margin: 0;
+    background-image:url(school.jpg);
+    background-size:cover;
+}
+.header {
+    
+    color: #ffe400;
+    text-align:center;
+    
+    padding:1px;
+    font-size:20px;
+    
+
+}
+.left {
+   
+    
+    width:33.3%;
+    float:left;
+    text-align:center;
+    height: 513px;
+}
+
+    .left img {
+        width: 85px;
+        border-radius: 50%;
+    margin-left: 0px;
+}
+    .left h2 {
+        color: #ffe400;
+    }
+
+.right {
+   
+    width:33.3%;
+    float:left;
+     text-align:center;
+    height: 513px;
+}
+.right img {
+    width: 85px;
+    border-radius: 50%;
+    height: 85px;
+}
+    .right h2 {
+         color: #ffe400;
+    }
+.center {
+    
+    width:33.3%;
+    float:left;
+     text-align:center;
+    height: 513px;
+}
+    .center img {
+        width: 85px;
+        border-radius: 50%;
+    height: 85px;
+}
+
+.center h2 {
+         color: #ffe400;
+    }
+#TextBox1, #TextBox2, #TextBox3, #TextBox4, #TextBox5, #TextBox6{
+     border:0;
+    background:none;
+    margin:20px auto;
+    border:2px solid  #ffe400;
+    padding:14px 10px;
+    outline:none;
+    border-radius:24px;
+    color:white;
+    font-size:20px;
+}
+#Button1, #Button2, #Button3 {
+   
+    cursor:pointer;
+    background:none;
+    border-radius:24px;
+      border:2px solid  #ffe400;
+
+}
+    #Button1:hover, #Button2:hover, #Button3:hover {
+        background:#ffe400;
+    }

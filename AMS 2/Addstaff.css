@@ -1,0 +1,58 @@
+﻿body {
+    background-image:url(sss.jpg);
+    background-size:cover;
+    margin:0;
+}
+
+.header, .table1, #button1, .table2,#button2{
+     font-family: 'Quicksand', sans-serif;
+}
+.header {
+    text-align:center;
+     font-size:25px;
+    color:#E74C3C;
+    padding:6px
+}
+
+
+.table1{
+    text-align: center;
+    color: #E74C3C;
+    font-size:18px;
+    width: 800px;
+    height: 478px;
+    border: 1px solid #E74C3C;
+    margin-right: 0px;
+}
+.table2 {
+    text-align: center;
+    color: #E74C3C;
+    font-size:18px;
+    width: 800px;
+    float:initial;
+    border: 1px solid #E74C3C;
+}
+#button1,#button2{
+  color:black; 
+  font-size:18px; 
+  border:0;
+    background:none;
+    margin:0px auto 20px auto;
+    border:2px solid #E74C3C;
+    padding: 5px;
+    width:300px;
+    outline:none;
+    border-radius:24px;
+    transition:0.25s;
+    font-size:20px;
+     cursor:pointer;    
+}
+    #button1:hover,#button2:hover {
+        background: #E74C3C;
+    }
+
+    #TextBox1, #TextBox2, #TextBox3, #TextBox4, #TextBox5, #TextBox6, #TextBox7, #TextBox8, #TextBox9, #TextBox10, #TextBox11, #TextBox12, #TextBox13,#TextBox14,#TextBox15,#TextBox16,#TextBox17,#TextBox18{
+        background:none;
+        border:2px solid #E74C3C ;
+        color:#E74C3C;
+    }
